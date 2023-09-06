@@ -1,0 +1,69 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "phoca/phoca-restaurant-menu-block",
+  "version": "6.0.0",
+  "title": "Phoca Restaurant Menu",
+  "category": "text",
+  "attributes": {
+    "header": {
+      "type": "string",
+      "default": ""
+    },
+    "menuType": {
+      "type": "string",
+      "default": "DailyMenu"
+    },
+    "hideImages": {
+      "type": "boolean",
+      "default": false
+    },
+    "priceFormat": {
+      "type": "string",
+      "default": "1"
+    },
+    "priceCurrencySymbol": {
+      "type": "string",
+      "default": ""
+    },
+    "priceDecimalSymbol": {
+      "type": "string",
+      "default": ","
+    },
+    "priceDecimals": {
+      "type": "string",
+      "default": "2"
+    },
+    "priceThousandsSeparator": {
+      "type": "string",
+      "default": "."
+    },
+    "priceSuffix": {
+      "type": "string",
+      "default": ""
+    },
+    "pricePrefix": {
+      "type": "string",
+      "default": ""
+    },
+    "adminDisplayGroupDescription": {
+      "type": "boolean",
+      "default": false
+    },
+    "adminDisplayItemDescription": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "icon": "",
+  "description": "Creating menus (Daily Menu, Weekly Menu, Bill of Fare, Beverage List or Wine List) for restaurants, cafeterias, fast foods, school canteens, buffets or wine rooms.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "phoca-restaurant-menu-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}

@@ -1,0 +1,39 @@
+{
+	"translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+	"generator": "WP-CLI/2.8.1",
+	"source": "src/edit.js",
+	"domain": "messages",
+	"locale_data": {
+		"messages": {
+			"": {
+				"domain": "messages",
+				"lang": "en",
+				"plural-forms": "nplurals=2; plural=(n != 1);"
+			},
+			"Phoca Restaurant Menu": [ "Phoca Restaurant Menu" ],
+			"Block Settings": [ "Block-Einstellungen" ],
+			"Menu Type": [ "Men\u00fctyp" ],
+			"Daily Menu": [ "Tageskarte" ],
+			"Weekly Menu": [ "Wochenkarte" ],
+			"Bill Of Fare": [ "Speisekarte" ],
+			"Beverage List": [ "Getr\u00e4nkekarte" ],
+			"Wine List": [ "Weinkarte" ],
+			"Hide Images": [ "Bilder verstecken" ],
+			"Price Format": [ "Preisformat" ],
+			"(Price) (Currency Symbol)": [ "(Preis) (W\u00e4hrungssymbol)" ],
+			"(Price)(Currency Symbol)": [ "(Preis)(W\u00e4hrungssymbol)" ],
+			"(Currency Symbol)(Price)": [ "(W\u00e4hrungssymbol)(Preis)" ],
+			"(Currency Symbol) (Price)": [ "(W\u00e4hrungssymbol) (Preis)" ],
+			"Price Currency Symbol": [ "Preis W\u00e4hrungssymbol" ],
+			"Price Decimal Symbol": [ "Preisdezimalsymbol" ],
+			"Price Decimals": [ "Preisdezimale" ],
+			"Price Thousands Separator": [ "Preis-Tausender-Separator" ],
+			"Price Suffix": [ "Preis Suffix" ],
+			"Price Prefix": [ "Preis Pr\u00e4fix" ],
+			"Administration Settings": [ "Verwaltungseinstellungen" ],
+			"Display Group Description": [ "Gruppenbeschreibung anzeigen" ],
+			"Display Item Description": [ "Artikelbeschreibung anzeigen" ],
+			"Header (Date, List)": [ "Kopfzeile (Datum, Liste)" ]
+		}
+	}
+}
