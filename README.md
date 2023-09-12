@@ -1,4 +1,4 @@
-# Phoca Restaurant Menu Wp Menu
+# Phoca Restaurant Menu WP Menu
 Creating menus (Daily Menu, Weekly Menu, Bill of Fare, Beverage List or Wine List) for restaurants, cafeterias, fast foods, school canteens, buffets or wine rooms. An integral part of this parent block is its inner block: Phoca Restaurant Menu - Groups and Items Block.
 
 ## Project page
